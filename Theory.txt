@@ -7,6 +7,17 @@ Polymorphism means "many forms", and it occurs when we have many classes that ar
 Polymorphism uses attributes and methods from inheritance to perform different tasks. This allows us to perform a single action in different ways.
 It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
 
+===7===
+a) Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+b) Yes
 
+===8===
+a) Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from).
+b) No
+c) Only signature
+
+===9===
+a) No
+b)  In Java, we can have an abstract class without any abstract method. This allows us to create classes that cannot be instantiated but can only be inherited. 
 
 
