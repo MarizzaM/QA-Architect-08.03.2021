@@ -2,3 +2,11 @@
 Using @Override annotation
 Method overriding is used to provide the specific implementation of a method which is already provided by its superclass.
 
+===4===
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+Polymorphism uses attributes and methods from inheritance to perform different tasks. This allows us to perform a single action in different ways.
+It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
+
+
+
+
