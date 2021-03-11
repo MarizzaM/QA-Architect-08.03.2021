@@ -1,0 +1,9 @@
+a) Unpossible add private or protected to the interface
+Interface methods are by default abstract and public
+Unpossible add private or protected to the functions inside the interface
+
+b) yes, but Interface methods do not have a body - the body is provided by the "implement" class
+
+c) Yes, To implement multiple interfaces, separate them with a comma
+
+d) yes, Interface members are by default public, static and final
