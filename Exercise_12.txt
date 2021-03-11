@@ -1,0 +1,7 @@
+a)If a class is marked as final then no class can inherit any feature from the final class
+
+b)Some classes perform standard functions and they are not meant to be modified e.g. 
+classes performing various functions related to string manipulations or mathematical functions etc.
+
+ Sometimes we write classes which perform various authentication and password related functions 
+ and we do not want them to be altered by anyone else.
