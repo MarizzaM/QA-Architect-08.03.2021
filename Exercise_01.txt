@@ -1,0 +1,2 @@
+Using @Override annotation
+Method overriding is used to provide the specific implementation of a method which is already provided by its superclass.
