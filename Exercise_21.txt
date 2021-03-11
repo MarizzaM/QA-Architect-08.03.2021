@@ -1,0 +1,3 @@
+a) Annotation @Test mark the method as a test method.
+
+b) The assertEquals assertion verifies that the expected and the actual values are equal
