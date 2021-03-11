@@ -1,0 +1,2 @@
+a) Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+b) Yes
