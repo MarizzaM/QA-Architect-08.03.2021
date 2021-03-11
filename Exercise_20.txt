@@ -1,0 +1,2 @@
+An Integer is a reference type (a class). An int is a value. And The ArrayList requires, in its implementation, 
+a reference type. So int is not allowed.
