@@ -1,0 +1,18 @@
+An abstract class permits you to make functionality that subclasses can implement or override whereas 
+an interface only permits you to state functionality but not to implement it. 
+
+A class can extend only one abstract class while a class can implement multiple interfaces.
+
+Using abstract classes:
+- In java application, there are some related classes that need to share some lines of code then you 
+can put these lines of code within abstract class.
+- You can define non-static or non-final field(s) in abstract class, so that via a method you can access and modify 
+the state of Object to which they belong.
+- You can expect that the classes that extend an abstract class have many common methods or fields, 
+or require access modifiers other than public (such as protected and private).
+
+Using interfaces:
+- It is total abstraction, All methods declared within an interface must be implemented by the class(es) 
+that implements this interface.
+- A class can implement more than one interface.
+- You want to specify the behavior of a particular data type, but not concerned about who implements its behavior.
