@@ -1,0 +1,3 @@
+a) Abstract method: can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from).
+b) No
+c) Only signature
