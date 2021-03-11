@@ -1,0 +1,2 @@
+An empty interface in Java is known as a marker interface i.e. it does not contain any methods or 
+fields by implementing these interfaces a class will exhibit a special behavior with respect to the interface implemented
